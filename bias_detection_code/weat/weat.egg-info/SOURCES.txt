@@ -1,0 +1,12 @@
+README.md
+setup.py
+weat/__init__.py
+weat/embeddings.py
+weat/imagenet.py
+weat/sent.py
+weat/test.py
+weat.egg-info/PKG-INFO
+weat.egg-info/SOURCES.txt
+weat.egg-info/dependency_links.txt
+weat.egg-info/requires.txt
+weat.egg-info/top_level.txt
