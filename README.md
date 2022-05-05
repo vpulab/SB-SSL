@@ -21,4 +21,4 @@ places them in **./bias_detection/code/pretrains**.
 
 
 ## Acknowledgment
-This study has been supported by the Consejeŕıa de Educacíon e Investigacíon of the Comunidad de Madrid under Project SI1/PJI/2019-00414.
+This study has been supported by the Consejeŕıa de Educacíon e Investigacíon of the Comunidad de Madrid under Project [SI1/PJI/2019-00414](http://www-vpu.eps.uam.es/projects/aiseeme/).
