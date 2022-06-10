@@ -4,17 +4,11 @@ A study on the distribution of social biases in self-supervised learning visual 
 
 ![Number of biases at different values of the thresholding parameter](header.PNG)
 
-If you like our [work](https://openaccess.thecvf.com/content/CVPR2022/papers/Sirotkin_A_Study_on_the_Distribution_of_Social_Biases_in_Self-Supervised_CVPR_2022_paper.pdf), please cite us as: 
+If you like our [work](https://openaccess.thecvf.com/content/CVPR2022/papers/Sirotkin_A_Study_on_the_Distribution_of_Social_Biases_in_Self-Supervised_CVPR_2022_paper.pdf), please cite us as: Kirill Sirotkin, Pablo Carballeira, and Marcos Escudero-Vinolo. A study on the distribution of social biases in
+self-supervised learning visual models. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pages 10442–10451, June 2022.
 
 
-@InProceedings{....<br />
-    author    = {Sirotkin, Kirill and Carballeira, Pablo and Escudero-Viñolo, Marcos},<br />
-    title     = {A Study on the Distribution of Social Biases in Self-Supervised Learning Visual Models},<br />
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},<br />
-    month     = {June},<br />
-    year      = {2022},<br />
-    pages     = {10442-10451}<br />
-}
+
 
 
 ## Summary 
