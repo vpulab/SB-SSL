@@ -6,7 +6,7 @@ A study on the distribution of social biases in self-supervised learning visual 
 
 If you like our [work](https://openaccess.thecvf.com/content/CVPR2022/papers/Sirotkin_A_Study_on_the_Distribution_of_Social_Biases_in_Self-Supervised_CVPR_2022_paper.pdf), please cite us as: 
 
-``
+
 @InProceedings{....<br />
     author    = {Sirotkin, Kirill and Carballeira, Pablo and Escudero-Viñolo, Marcos},<br />
     title     = {A Study on the Distribution of Social Biases in Self-Supervised Learning Visual Models},<br />
@@ -15,7 +15,7 @@ If you like our [work](https://openaccess.thecvf.com/content/CVPR2022/papers/Sir
     year      = {2022},<br />
     pages     = {10442-10451}<br />
 }
-``
+
 
 ## Summary 
 
