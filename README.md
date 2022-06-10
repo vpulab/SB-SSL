@@ -5,7 +5,7 @@ A study on the distribution of social biases in self-supervised learning visual 
 ![Number of biases at different values of the thresholding parameter](header.PNG)
 
 If you like our [work](https://openaccess.thecvf.com/content/CVPR2022/papers/Sirotkin_A_Study_on_the_Distribution_of_Social_Biases_in_Self-Supervised_CVPR_2022_paper.pdf), please cite us as: 
-
+`
 @InProceedings{....
     author    = {Sirotkin, Kirill and Carballeira, Pablo and Escudero-Vi\~nolo, Marcos},
     title     = {A Study on the Distribution of Social Biases in Self-Supervised Learning Visual Models},
@@ -14,7 +14,7 @@ If you like our [work](https://openaccess.thecvf.com/content/CVPR2022/papers/Sir
     year      = {2022},
     pages     = {10442-10451}
 }
-
+`
 ## Summary 
 
 - We study the association biases acquired by 11 SSL models that share the same ResNet-50 architecture, and vary in terms of pretext task and, thus, their accuracy after transfer learning. The results of this study suggest that the nature of the pretext task influences the number and nature of incorporated biases, and that contrastive models are more prone to acquire  biased associations that are implicit in the data.
