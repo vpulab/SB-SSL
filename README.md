@@ -1,10 +1,10 @@
 <h1 align="center">
-[A study on the distribution of social biases in self-supervised learning visual models](https://openaccess.thecvf.com/content/CVPR2022/papers/Sirotkin_A_Study_on_the_Distribution_of_Social_Biases_in_Self-Supervised_CVPR_2022_paper.pdf)
+A study on the distribution of social biases in self-supervised learning visual models
 </h1>
 
 ![Number of biases at different values of the thresholding parameter](header.PNG)
 
-If you like our work, please cite us as: 
+If you like our [work](https://openaccess.thecvf.com/content/CVPR2022/papers/Sirotkin_A_Study_on_the_Distribution_of_Social_Biases_in_Self-Supervised_CVPR_2022_paper.pdf), please cite us as: 
 
 @InProceedings{....
     author    = {Sirotkin, Kirill and Carballeira, Pablo and Escudero-Vi\~nolo, Marcos},
